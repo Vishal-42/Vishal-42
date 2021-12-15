@@ -1,4 +1,4 @@
- Hi, I’m Vishal I'm java,C++,javascript developer.
+ Hi, I’m Vishal I'm very skilled in java,Python,C++,HTML,CSS,javascript,PHP,MySQL.
  I’m interested in any kind of coding work I love coding.
  I’m currently learning BCA.
 
