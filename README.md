@@ -1,6 +1,4 @@
- Hi, I’m Vishal I'm very skilled in java,Python,C++,HTML,CSS,javascript,PHP,MySQL.
- I’m interested in any kind of coding work I love coding.
- I’m currently learning BCA.
+I’m Vishal I am a highly motivated and skilled developer with a passion for learning and keeping up with the latest technologies. I have expertise in full-stack development, mobile applications development, and machine learning. With proficiency in languages such as Python, Java, PHP Laravel, React Js, Flutter, and JavaScript, I can develop robust applications.I am constantly expanding my technical knowledge and thrive in fast-paced, team-driven environments.
 
 
 <!---
