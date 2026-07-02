@@ -15,10 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I lead the **Security Graph** feature (backend + frontend) on a multi-tenant **CSPM** platform at **AccuKnox**
-- 🧠 I build **ML/LLM security tooling** — RAG, graph data modeling, and LLM-powered security assistants
-- 🌱 Currently migrating a graph engine from **Apache AGE → native PostgreSQL recursive CTEs**
-- 💬 Ask me about **Django/DRF, Celery, Neo4j, LangChain/RAG, and scalable backend design**
+- 🔭 AI/ML engineer working on **backend systems and cloud security**
+- 🧠 I enjoy building **ML/LLM tooling**, RAG pipelines, and scalable, maintainable backends
+- 🌱 Always learning — currently deepening my skills in **LLMs and graph data modeling**
+- 💬 Ask me about **Django/DRF, Celery, Neo4j, LangChain/RAG, and backend design**
 - 👨‍💻 All of my projects are available at [github.com/Vishal-42](https://github.com/Vishal-42)
 - 📫 Reach me at **gamitvishal42@gmail.com**
 
